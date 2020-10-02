@@ -14,3 +14,4 @@ buildNumber.properties
 # Ignored code
 Login.java
 edugrades.jar
+grades.xls
